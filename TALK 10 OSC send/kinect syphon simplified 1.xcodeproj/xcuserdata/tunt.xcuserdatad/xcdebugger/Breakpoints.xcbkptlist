@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/tunt/Desktop/Design and Research/Design Softwares/OpenFrameworks/of_v0.7.4_osx_release/libs/openFrameworks/math/ofVec2f.h"
+         timestampString = "403273437.021998"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "189"
+         endingLineNumber = "189"
+         landmarkName = "class ofVec2f"
+         landmarkType = "3">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "ofGLRenderer::setSphereResolution(int)"
+               urlString = "file://localhost/ofVec2f.h"
+               timestampString = "403683662.10055"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "252"
+               endingLineNumber = "252">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "testApp::setup()"
+               urlString = "file://localhost/ofVec2f.h"
+               timestampString = "403683662.099851"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "252"
+               endingLineNumber = "252">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "testApp::draw()"
+               urlString = "file://localhost/ofVec2f.h"
+               timestampString = "403683662.100119"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "252"
+               endingLineNumber = "252">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
